@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fleet</string>
+    <string name="text_with_paragraphs">
+        \n Add Notes Here
+        \n
+        \n
+        \n
+        \n
+    </string>
+</resources>

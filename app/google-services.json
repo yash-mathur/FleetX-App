@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "838029322451",
+    "firebase_url": "https://fleetx.firebaseio.com",
+    "project_id": "fleetx",
+    "storage_bucket": "fleetx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838029322451:android:490817c06a190fa0",
+        "android_client_info": {
+          "package_name": "com.example.fleet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838029322451-ss5jmo9aecbseqvq3brankt9g328vk2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fleet",
+            "certificate_hash": "6b0e43dbff1ef6ed2b79b2795dbab7b0a8b02fa5"
+          }
+        },
+        {
+          "client_id": "838029322451-ktdq9mcaa0jram2icuv2001bhrn1t10c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpZNgbN4qSPIBZyWYrr05YSiJJ1jIJzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838029322451-ktdq9mcaa0jram2icuv2001bhrn1t10c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
